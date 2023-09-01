@@ -1,4 +1,4 @@
 # ml_project1
 
-This project predict the income for adults 
-We use the machine learning algorthmis
+This my first project with machine learning , I predict the income for adults 
+
